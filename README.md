@@ -1,0 +1,2 @@
+# prepare
+golang project prepare
